@@ -1,0 +1,138 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Liyan-2017.aux
+The style file: GBT7714-2005.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: bib/tex.bib
+You're missing a field name---line 21 of file bib/tex.bib
+ : 
+ : %   title={静态软件缺陷预测方法研究},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 70 of file bib/tex.bib
+ : 
+ : %   title={对地铁通信系统常见故障问题的分析和若干建议},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 98 of file bib/tex.bib
+ : 
+ : %   title={面向验证的软件可信证据与可信评估},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 117 of file bib/tex.bib
+ :   
+ :   number={1},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 229 of file bib/tex.bib
+ : 
+ : %   title={Basic concepts and taxonomy of dependable and secure computing},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 311 of file bib/tex.bib
+ : 
+ : %   title={基于TPM的运行时软件可信证据收集机制},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 584 of file bib/tex.bib
+ : @phdthesis{李岩2017软件可信性静态度量模型设计与工具实现
+ :                                                                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 599 of file bib/tex.bib
+ : @article{李俊霖2016一种可信属性之间的相关性分析方法
+ :                                                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 637 of file bib/tex.bib
+ : @article{刘克2008“可信软件基础研究”重大研究计划综述
+ :                                                                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 676 of file bib/tex.bib
+ : @book{张卫祥2015软件可信性定量评估
+ :                                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 724 of file bib/tex.bib
+ : @article{丁学雷2010面向验证的软件可信证据与可信评估
+ :                                                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 829 of file bib/tex.bib
+ : @phdthesis{陶红伟2011基于属性的软件可信性度量模型研究
+ :                                                                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 835 of file bib/tex.bib
+ : @phdthesis{李岩2017软件可信性静态度量模型设计与工具实现
+ :                                                                            ,
+I'm skipping whatever remains of this entry
+Warning--Require author: 2011基于“环境
+Warning--Require address: 2011基于“环境
+Warning--Require author: 2009贝叶斯网络在软件可信性评估指标体系中的应用
+Warning--Require address: 2009贝叶斯网络在软件可信性评估指标体系中的应用
+Warning--Require address: 彭涛2014基于SCADE的信息物理融合系统的分析和设计方法
+Warning--Require author: 丁学雷2010面向验证的软件可信证据与可信评估
+Warning--Require title: 丁学雷2010面向验证的软件可信证据与可信评估
+Warning--Require journal: 丁学雷2010面向验证的软件可信证据与可信评估
+Warning--Require year: 丁学雷2010面向验证的软件可信证据与可信评估
+Warning--Require address: 伍志强2019基于可信证据的软件可信性计算模型设计与工具实现
+Warning--Require address: 李岩2017软件可信性静态度量模型设计与工具实现
+Warning--Require address: 于本海2014可信软件测度理论与方法
+Warning--Require author: 2011改进的最大优先指标及在计算机化自适应诊断测验中的应用
+Warning--Require address: 2011改进的最大优先指标及在计算机化自适应诊断测验中的应用
+Warning--Require address: 陶红伟2011基于属性的软件可信性度量模型研究
+Warning--Require journal: Schneider1999Trust
+Warning--Require author: EN50126
+Warning--Require year: EN50126
+Warning--Require address: ISO9126-22001
+Warning--Require address: ISO9126-32001
+Warning--Require year: 王德鑫2018支持软件过程可信评估的可信证据
+Warning--Require author/editor: 2004结构方程模型及其应用
+Warning--Require address: 吴明隆2010结构方程模型
+Warning--Require address: 邹德玲2016网络嵌入视角下KIBS企业服务创新绩效影响机制研究
+Warning--Require author/editor: 2012Spring
+Warning--Require address: 张卫祥2015软件可信性定量评估
+Warning--Require journal: Cronbach’sAlpha
+Warning--Require citedate: Cronbach’sAlpha
+Warning--Require journal: mvc体系结构
+Warning--Require citedate: mvc体系结构
+You've used 55 entries,
+            3050 wiz_defined-function locations,
+            968 strings with 14214 characters,
+and the built_in function-call counts, 59362 in all, are:
+= -- 5971
+> -- 155
+< -- 365
++ -- 4840
+- -- 469
+* -- 2037
+:= -- 6652
+add.period$ -- 0
+call.type$ -- 55
+change.case$ -- 200
+chr.to.int$ -- 0
+cite$ -- 85
+duplicate$ -- 7610
+empty$ -- 2567
+format.name$ -- 400
+if$ -- 15914
+int.to.chr$ -- 0
+int.to.str$ -- 55
+missing$ -- 0
+newline$ -- 192
+num.names$ -- 55
+pop$ -- 819
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 882
+stack$ -- 0
+substring$ -- 6313
+swap$ -- 2088
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 30
+while$ -- 862
+width$ -- 57
+write$ -- 688
+(There were 13 error messages)

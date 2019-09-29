@@ -1,0 +1,101 @@
+
+\appendix
+
+\chapter{设计、编码和测试阶段的可信评估指标体系}
+\vspace{-1cm}
+
+\begin{table}[htbp]
+	\centering
+	\caption{设计阶段可信评估指标体系}\label{tab-cc-1}
+	\begin{tabular}[htbp]{|l|l|l|c|}
+		    \hline
+			评估目标 & 一级评估指标 & 二级评估指标 & 符号\\
+			\hline
+			\multirow{18}*{\tabincell{l}{设计阶段可信性}} &
+			\multirow{5}*{\tabincell{l}{功能性}}&设计覆盖性 & X1\\ \cline{3-4} 
+			& &功能设计正确性 & X2\\ \cline{3-4} 
+			& &数据元素设计 & X3\\ \cline{3-4}
+			& &接口设计完整 & X4\\ \cline{3-4}
+			& &\tabincell{l}{接口通用、可扩展性设计} & X5\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{5}*{\tabincell{l}{可靠性}} &成熟性设计 & X6\\ \cline{3-4}
+			& &缺陷预防设计 & X7\\ \cline{3-4}
+			& &模块耦合 & X8\\ \cline{3-4}
+			& &\tabincell{l}{容错处理设计} & X9\\ \cline{3-4}
+			& &\tabincell{l}{失效后处理措施设计} & X10\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{4}*{\tabincell{l}{安全性}} & \tabincell{l}{安全关键模块设计} & X11\\ \cline{3-4}
+			& &\tabincell{l}{人因安全设计} & X12\\ \cline{3-4}
+			& &高风险设计 & X13\\ \cline{3-4}
+			& &防危性设计 & X14\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{4}*{\tabincell{l}{可维护性}} &可测试性设计 & X15\\ \cline{3-4}
+			& &合格性审查设计 & X16\\ \cline{3-4}
+			& &与需求的双向追踪关系设计 & X17\\ \cline{3-4}
+			& &问题的分析定位设计 & X18\\
+			\hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+	\centering
+	\caption{编码阶段可信评估指标体系}\label{tab-cc-1}
+	\begin{tabular}[htbp]{|l|l|l|c|}
+		    \hline
+			评估目标 & 一级评估指标 & 二级评估指标 & 符号\\
+			\hline
+			\multirow{13}*{\tabincell{l}{编码阶段可信性}} &
+			\multirow{5}*{\tabincell{l}{功能性}}&实现覆盖程度 & X1\\ \cline{3-4} 
+			& &功能适配 & X2\\ \cline{3-4} 
+			& &\tabincell{l}{数据处理精度与\\数据一致性实现} & X3\\ \cline{3-4}
+			& &\tabincell{l}{软件代码、单元圈\\和单元规模符合} & X4\\ \cline{3-4}
+			& &\tabincell{l}{接口完整、可扩展性实现} & X5\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{3}*{\tabincell{l}{可靠性}} &成熟性实现 & X6\\ \cline{3-4}
+			& &失效后处理措施实现 & X7\\ \cline{3-4}
+			& &容错处理实现 & X8\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{3}*{\tabincell{l}{安全性}} & \tabincell{l}{安全相关编码规范完整} & X11\\ \cline{3-4}
+			& &\tabincell{l}{异常处理} & X9\\ \cline{3-4}
+			& &\tabincell{l}{错误源防护} & X10\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{2}*{\tabincell{l}{可维护性}} &问题的分析定位实现 & X15\\ \cline{3-4}
+			& &复杂逻辑避免实现 & X16\\ \cline{3-4}
+			\hline
+	\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+	\centering
+	\caption{测试阶段可信评估指标体系}\label{tab-cc-1}
+	\begin{tabular}[htbp]{|l|l|l|c|}
+		    \hline
+			评估目标 & 一级评估指标 & 二级评估指标 & 符号\\
+			\hline
+			\multirow{19}*{\tabincell{l}{测试阶段可信性}} &
+			\multirow{5}*{\tabincell{l}{功能性}}&功能测试完整 & X1\\ \cline{3-4} 
+			& &\tabincell{l}{功能测试用例有效\\（正常值、异常值与边界值）} & X2\\ \cline{3-4} 
+			& &功能测试用例通过 & X3\\ \cline{3-4}
+			& &接口测试完整 & X4\\ \cline{3-4}
+			& &\tabincell{l}{接口测试用例有效} & X5\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{5}*{\tabincell{l}{可靠性}} &成熟性测试完整 & X6\\ \cline{3-4}
+			& &成熟性测试有效 & X7\\ \cline{3-4}
+			& &故障覆盖程度 & X8\\ \cline{3-4}
+			& &\tabincell{l}{错误处理规则测试\\完整程度} & X9\\ \cline{3-4}
+			& &\tabincell{l}{错误处理规则\\测试有效} & X10\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{5}*{\tabincell{l}{安全性}} & \tabincell{l}{安全功能响应时间测试} & X11\\ \cline{3-4}
+			& &\tabincell{l}{状态转换符合程度} & X12\\ \cline{3-4}
+			& &SIL审查符合程度 & X13\\ \cline{3-4}
+			& &防危性测试完整 & X14\\ \cline{3-4}
+		    & &\tabincell{l}{防危性测试有效与\\符合程度} & X15\\ \cline{3-4}
+			\cline{2-4} &
+			\multirow{4}*{\tabincell{l}{可维护性}} &测试阶段双向追踪关系 & X16\\ \cline{3-4}
+			& &问题的分析定位测试 & X17\\ \cline{3-4}
+			& &自动化测试程度 & X18\\ \cline{3-4}
+			& &\tabincell{l}{可测试性的测试完整、有效\\与符合程度} & X19\\
+			\hline
+	\end{tabular}
+\end{table}
+

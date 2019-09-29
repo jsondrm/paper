@@ -1,0 +1,357 @@
+\begin{thebibliography}{10}
+\providecommand{\bibauthor}[1]{#1}
+\providecommand{\bibeditor}[1]{#1}
+\providecommand{\bibtranslator}[1]{#1}
+\providecommand{\bibtitle}[1]{#1}
+\providecommand{\bibbooktitle}[1]{#1}
+\providecommand{\bibjournal}[1]{#1}
+\providecommand{\bibmark}[1]{#1}
+\providecommand{\bibcountry}[1]{#1}
+\providecommand{\bibpatentid}[1]{#1}
+\providecommand{\bibedition}[1]{#1}
+\providecommand{\biborganization}[1]{#1}
+\providecommand{\bibaddress}[1]{#1}
+\providecommand{\bibpublisher}[1]{#1}
+\providecommand{\bibinstitution}[1]{#1}
+\providecommand{\bibschool}[1]{#1}
+\providecommand{\bibvolume}[1]{#1}
+\providecommand{\bibnumber}[1]{#1}
+\providecommand{\bibversion}[1]{#1}
+\providecommand{\bibpages}[1]{#1}
+\providecommand{\bibmodifydate}[1]{#1}
+\providecommand{\bibcitedate}[1]{#1}
+\providecommand{\bibyear}[1]{#1}
+\providecommand{\bibdate}[1]{#1}
+\providecommand{\biburl}[1]{\newline\url{#1}}
+
+\bibitem{2011基于“环境}
+\bibauthor{ANON}\@.
+  \bibtitle{基于“环境-行为”本体模型的软件可信演化研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{重庆大学}\@,
+  \bibyear{2011}\@.
+
+\bibitem{2009贝叶斯网络在软件可信性评估指标体系中的应用}
+\bibauthor{ANON}\@.
+  \bibtitle{贝叶斯网络在软件可信性评估指标体系中的应用}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{山东轻工业学院}\@, \bibyear{2009}\@.
+
+\bibitem{Wang2006Trustworthiness}
+\bibauthor{WANG H\@, TANG Y\@, GANG Y, et~al}\@. \bibtitle{Trustworthiness of
+  Internet-based software}\bibmark{[J]}\@. \bibjournal{Science China
+  Information Sciences}\@, \bibyear{2006}\@,
+  \bibvolume{49}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{759\thinspace{}\textnormal{--}\thinspace{}773}\@.
+
+\bibitem{熊伟2010基于}
+\bibauthor{熊伟\@, 王娟丽\@, 蔡铭, et~al}\@.
+  \bibtitle{基于QFD技术的软件可信性评估研究}\bibmark{[J]}\@.
+  \bibjournal{计算机应用研究}\@, \bibyear{2010}\@,
+  \bibvolume{27}\bibnumber{(8)}\thinspace{}\textnormal{:
+  }\bibpages{2991\thinspace{}\textnormal{--}\thinspace{}2994}\@.
+
+\bibitem{2006城市轨道交通信号设备}
+\bibauthor{林瑜筠}\@.
+  \bibbooktitle{城市轨道交通信号设备}\bibmark{[M]}\@.
+  \bibyear{2006}\@.
+
+\bibitem{彭涛2014基于SCADE的信息物理融合系统的分析和设计方法}
+\bibauthor{彭涛}\@.
+  \bibtitle{基于SCADE的信息物理融合系统的分析和设计方法}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{广东工业大学}\@, \bibyear{2014}\@.
+
+\bibitem{杨学伟2012论城市地铁文化建设的策略}
+\bibauthor{杨学伟}\@.
+  \bibtitle{论城市地铁文化建设的策略}\bibmark{[J]}\@.
+  \bibjournal{城市建设理论研究：电子版}\@, \bibyear{2012}\@.
+
+\bibitem{蔡斯博2010一种支持软件资源可信评估的框架}
+\bibauthor{蔡斯博\@, 邹艳珍and 邵凌霜}\@.
+  \bibtitle{一种支持软件资源可信评估的框架}\bibmark{[J]}\@.
+  \bibjournal{软件学报}\@, \bibyear{2010}\@,
+  \bibvolume{21}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{359\thinspace{}\textnormal{--}\thinspace{}372}\@.
+
+\bibitem{杨善林2009一种基于效用和证据理论的可信软件评估方法}
+\bibauthor{杨善林\@, 丁帅\@, 褚伟}\@.
+  \bibtitle{一种基于效用和证据理论的可信软件评估方法}\bibmark{[J]}\@.
+  \bibjournal{计算机研究与发展}\@, \bibyear{2009}\bibnumber{(7)}\@.
+
+\bibitem{赵倩2011基于}
+\bibauthor{赵倩\@, 王慧强\@, 冯光升, et~al}\@.
+  \bibtitle{基于Pi演算的软件可信性度量方法}\bibmark{[J]}\@.
+  \bibjournal{吉林大学学报(工)}\@, \bibyear{2011}\@,
+  \bibvolume{41}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{1684\thinspace{}\textnormal{--}\thinspace{}1689}\@.
+
+\bibitem{丁学雷2010面向验证的软件可信证据与可信评估}
+\bibauthor{ANON}\@. \bibmark{[J]}\@, \@.
+
+\bibitem{Zhang2012An}
+\bibauthor{ZHANG Y\@, ZHANG Y\@, MO H}\@. \bibtitle{An Evaluation Model Of
+  Software Trustworthiness Based On Fuzzy Comprehensive Evaluation
+  Method}\bibmark{[C]} //\thinspace{}\bibbooktitle{International Conference on
+  Industrial Control \& Electronics Engineering}\@. \bibyear{2012}\@.
+
+\bibitem{王婧2015航天嵌入式软件可信性度量方法及应用研究}
+\bibauthor{王婧\@, 陈仪香\@, 顾斌}\@.
+  \bibtitle{航天嵌入式软件可信性度量方法及应用研究}\bibmark{[J]}\@.
+  \bibjournal{中国科学:技术科学}\@,
+  \bibyear{2015}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{221\thinspace{}\textnormal{--}\thinspace{}228}\@.
+
+\bibitem{AmorosoE1991TowardanApproach}
+\bibauthor{E A\@, T N\@, J W}\@. \bibtitle{Toward an Approach to Measuring
+  Software Trust}\bibmark{[J]}\@. \bibjournal{IEEE Computer Society Symposium
+  on Research in Security \& Privacy}\@, \bibyear{1991}\@.
+
+\bibitem{AmorosoE1994Aprocess-orientedmethodology}
+\bibauthor{E A\@, C T\@, J W}\@. \bibtitle{A process-oriented methodology for
+  assessing and improving software trustworthiness}\bibmark{[J]}\@.
+  \bibjournal{Conference on Ccs}\@, \bibyear{1994.}\@.
+
+\bibitem{Abrial2013Modeling}
+\bibauthor{ABRIAL J~R}\@. \bibbooktitle{Modeling in Event-B - System and
+  Software Engineering}\bibmark{[M]}\@. \bibyear{2013}\@.
+
+\bibitem{伍志强2019基于可信证据的软件可信性计算模型设计与工具实现}
+\bibauthor{伍志强}\@.
+  \bibtitle{基于可信证据的软件可信性计算模型设计与工具实现}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{华东师范大学}\@, \bibyear{2019}\@.
+
+\bibitem{李岩2017软件可信性静态度量模型设计与工具实现}
+\bibauthor{李岩}\@.
+  \bibtitle{软件可信性静态度量模型设计与工具实现}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{华东师范大学}\@, \bibyear{2017}\@.
+
+\bibitem{于本海2014可信软件测度理论与方法}
+\bibauthor{于本海}\@.
+  \bibbooktitle{可信软件测度理论与方法}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{科学出版社s}\@, \bibyear{2014}\@.
+
+\bibitem{张俊2016一种基于软件属性相互影响和重要性的属性权重配方法}
+\bibauthor{张俊\@, 周勇}\@.
+  \bibtitle{一种基于软件属性相互影响和重要性的属性权重分配方法}\bibmark{[J]}\@.
+  \bibjournal{计算机应用研究}\@, \bibyear{2016}\@,
+  \bibvolume{33}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{1390\thinspace{}\textnormal{--}\thinspace{}1394}\@.
+
+\bibitem{2011改进的最大优先指标及在计算机化自适应诊断测验中的应用}
+\bibauthor{ANON}\@.
+  \bibtitle{改进的最大优先指标及在计算机化自适应诊断测验中的应用}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{江西师范大学}\@, \bibyear{2011}\@.
+
+\bibitem{陶红伟2011基于属性的软件可信性度量模型研究}
+\bibauthor{陶红伟}\@.
+  \bibtitle{基于属性的软件可信性度量模型研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibschool{华东师范大学}\@, \bibyear{2011}\@.
+
+\bibitem{Schneider1999Trust}
+\bibauthor{SCHNEIDER F~B}\@. \bibtitle{Trust in Cyberspace}\bibmark{[J]}\@,
+  \bibyear{1999}\@.
+
+\bibitem{刘克2008“可信软件基础研究”重大研究计划综述}
+\bibauthor{刘克\@, 单志广\@, 王戟}\@.
+  \bibtitle{“可信软件基础研究”重大研究计划综述}\bibmark{[J]}\@.
+  \bibjournal{中国科学基金}\@, \bibyear{2008}\@,
+  \bibvolume{22}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{145\thinspace{}\textnormal{--}\thinspace{}151}\@.
+
+\bibitem{王怀民2010网络时代的软件可信演化}
+\bibauthor{王怀民\@, 尹刚}\@.
+  \bibtitle{网络时代的软件可信演化}\bibmark{[J]}\@.
+  \bibjournal{中国计算机学会通讯}\@, \bibyear{2010}\@,
+  \bibvolume{6}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{28\thinspace{}\textnormal{--}\thinspace{}36}\@.
+
+\bibitem{李俊霖2016一种可信属性之间的相关性分析方法}
+\bibauthor{李俊霖\@, 高涛\@, 郁湧}\@.
+  \bibtitle{一种可信属性之间的相关性分析方法}\bibmark{[J]}\@.
+  \bibjournal{软件工程}\@, \bibyear{2016}\@,
+  \bibvolume{19}\bibnumber{(1)}\thinspace{}\textnormal{:
+  }\bibpages{32\thinspace{}\textnormal{--}\thinspace{}34}\@.
+
+\bibitem{Becker2006Trustworthy}
+\bibauthor{BECKER S\@, HASSELBRING W\@, PAUL A, et~al}\@. \bibtitle{Trustworthy
+  software systems: a discussion of basic concepts and
+  terminology}\bibmark{[J]}\@. \bibjournal{Acm Sigsoft Software Engineering
+  Notes}\@, \bibyear{2006}\@,
+  \bibvolume{31}\bibnumber{(6)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}18}\@.
+
+\bibitem{陈火旺2003高可信软件工程技术}
+\bibauthor{陈火旺\@, 王戟\@, 董威}\@.
+  \bibtitle{高可信软件工程技术}\bibmark{[J]}\@.
+  \bibjournal{电子学报}\@, \bibyear{2003}\@,
+  \bibvolume{31}\bibnumber{(S1)}\thinspace{}\textnormal{:
+  }\bibpages{1933\thinspace{}\textnormal{--}\thinspace{}1938}\@.
+
+\bibitem{EN50126}
+\bibauthor{ANON}\@.
+  \bibtitle{铁路应用-可靠性，可用性，可维护性和安全性（RAMS）的规范和示例}\bibmark{[R]}\@.
+  \@.
+
+\bibitem{张俊2016一种基于软件属性相互影响和重要性的属性权重分配方法}
+\bibauthor{张俊\@, 周勇}\@.
+  \bibtitle{一种基于软件属性相互影响和重要性的属性权重分配方法}\bibmark{[J]}\@.
+  \bibjournal{计算机应用研究}\@, \bibyear{2016}\@,
+  \bibvolume{33}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{1390\thinspace{}\textnormal{--}\thinspace{}1394}\@.
+
+\bibitem{ISO9126-22001}
+\bibauthor{ISO9126}\@. \bibtitle{Software engineering - Product quality, Part
+  2:. External metrics}\bibmark{[R]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibinstitution{ISO}\@,
+  \bibyear{2001}\@.
+
+\bibitem{ISO9126-32001}
+\bibauthor{ISO9126}\@. \bibtitle{Software engineering - Product quality, Part 3
+  . Internal metrics}\bibmark{[R]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibinstitution{ISO}\@,
+  \bibyear{2001}\@.
+
+\bibitem{王德鑫2018支持软件过程可信评估的可信证据}
+\bibauthor{王德鑫\@, 王青}\@.
+  \bibtitle{支持软件过程可信评估的可信证据}\bibmark{[J]}\@.
+  \bibjournal{软件学报}\@, \@, \bibvolume{29}\@.
+
+\bibitem{2004结构方程模型及其应用}
+\bibauthor{ANON}\@.
+  \bibbooktitle{结构方程模型及其应用}\bibmark{[M]}\@.
+  \bibyear{2004}\@.
+
+\bibitem{王玖河2017顾客参与价值共创机理研究——基于结构方程模型的量化分析}
+\bibauthor{王玖河\@, 刘琳}\@.
+  \bibtitle{顾客参与价值共创机理研究——基于结构方程模型的量化分析}\bibmark{[J]}\@.
+  \bibjournal{企业经济}\@,
+  \bibyear{2017}\bibnumber{(02)}\thinspace{}\textnormal{:
+  }\bibpages{75\thinspace{}\textnormal{--}\thinspace{}83}\@.
+
+\bibitem{周涛2006结构方程模型及其在实证分析中的应用}
+\bibauthor{周涛\@, 鲁耀斌}\@.
+  \bibtitle{结构方程模型及其在实证分析中的应用}\bibmark{[J]}\@.
+  \bibjournal{工业工程与管理}\@, \bibyear{2006}\bibnumber{(5)}\@.
+
+\bibitem{吴明隆2010结构方程模型}
+\bibauthor{吴明隆}\@.
+  \bibbooktitle{结构方程模型——AMOS的操作与应用}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{重庆：重庆大学出版社}\@, \bibyear{2010}\@.
+
+\bibitem{程开明2006结构方程模型的特点及应用}
+\bibauthor{程开明}\@.
+  \bibtitle{结构方程模型的特点及应用}\bibmark{[J]}\@.
+  \bibjournal{统计与决策}\@, \bibyear{2006}\bibnumber{(10)}\@.
+
+\bibitem{邹德玲2016网络嵌入视角下KIBS企业服务创新绩效影响机制研究}
+\bibauthor{邹德玲}\@.
+  \bibtitle{网络嵌入视角下KIBS企业服务创新绩效影响机制研究}\bibmark{[D]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{: }\bibschool{东华大学}\@,
+  \bibyear{2016}\@.
+
+\bibitem{Gutierrez2017Spring}
+\bibauthor{GUTIERREZ F}\@. \bibbooktitle{Spring Boot}\bibmark{[M]}\@.
+  \bibyear{2017}\@.
+
+\bibitem{2012Spring}
+\bibauthor{ANON}\@.
+  \bibbooktitle{Spring技术内幕:深入解析Spring架构与设计原理}\bibmark{[M]}\@.
+  \bibyear{2012}\@.
+
+\bibitem{Hasselbring2006Toward}
+\bibauthor{HASSELBRING W\@, REUSSNER R}\@. \bibbooktitle{Toward Trustworthy
+  Software Systems}\bibmark{[M]}\@. \bibyear{2006}\thinspace{}\textnormal{:
+  }\bibpages{91\thinspace{}\textnormal{--}\thinspace{}92}\@.
+
+\bibitem{张卫祥2015软件可信性定量评估}
+\bibauthor{张卫祥\@, 刘文红\@, 吴欣}\@.
+  \bibbooktitle{软件可信性定量评估:模型、方法与实施}\bibmark{[M]}\@.
+  \bibaddress{[S.l.]}\thinspace{}\textnormal{:
+  }\bibpublisher{清华大学出版社}\@, \bibyear{2015}\@.
+
+\bibitem{戴君2015基于结构方程模型的可持续供应链绩效评价研究}
+\bibauthor{戴君\@, 贾琪\@, 谢琍, et~al}\@.
+  \bibtitle{基于结构方程模型的可持续供应链绩效评价研究}\bibmark{[J]}\@.
+  \bibjournal{生态经济}\@, \bibyear{2015}\@,
+  \bibvolume{31}\bibnumber{(4)}\thinspace{}\textnormal{:
+  }\bibpages{86\thinspace{}\textnormal{--}\thinspace{}89}\@.
+
+\bibitem{汪莹2012浅谈软件需求分析}
+\bibauthor{汪莹\@, 孙玉涛}\@.
+  \bibtitle{浅谈软件需求分析}\bibmark{[J]}\@.
+  \bibjournal{电子世界}\@,
+  \bibyear{2012}\bibnumber{(17)}\thinspace{}\textnormal{:
+  }\bibpages{105\thinspace{}\textnormal{--}\thinspace{}106}\@.
+
+\bibitem{郭婉琴2014一种机载软件安全性需求获取方法}
+\bibauthor{郭婉琴\@, 王新刚}\@.
+  \bibtitle{一种机载软件安全性需求获取方法}\bibmark{[J]}\@.
+  \bibjournal{航空科学技术}\@,
+  \bibyear{2014}\bibnumber{(9)}\thinspace{}\textnormal{:
+  }\bibpages{48\thinspace{}\textnormal{--}\thinspace{}51}\@.
+
+\bibitem{赵怡晴2016产品质量风险监控绩效评估的结构方程模型}
+\bibauthor{赵怡晴\@, 胡晓运\@, 李仲学, et~al}\@.
+  \bibtitle{产品质量风险监控绩效评估的结构方程模型}\bibmark{[J]}\@.
+  \bibjournal{数理统计与管理}\@, \bibyear{2016}\@,
+  \bibvolume{35}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{856\thinspace{}\textnormal{--}\thinspace{}867}\@.
+
+\bibitem{张运新2017某校学生对校园文体活动主观感受的调查问卷信度分析}
+\bibauthor{张运新\@, 王泉武}\@.
+  \bibtitle{某校学生对校园文体活动主观感受的调查问卷信度分析}\bibmark{[J]}\@.
+  \bibjournal{卫生职业教育}\@, \bibyear{2017}\@,
+  \bibvolume{35}\bibnumber{(5)}\thinspace{}\textnormal{:
+  }\bibpages{107\thinspace{}\textnormal{--}\thinspace{}107}\@.
+
+\bibitem{Cronbach’sAlpha}
+\bibauthor{BAIDUBAIKE}\@. \bibtitle{克朗巴哈系数}\bibmark{[J/OL]}\@,
+  \bibyear{2019}\@.
+  \newline\url{https://baike.baidu.com/item/%E5%85%8B%E6%9C%97%E5%B7%B4%E5%93%88%E7%B3%BB%E6%95%B0/4350690}\@.
+
+\bibitem{赵学金2009基于结构方程的知识型服务质量的评价方法}
+\bibauthor{赵学金\@, 吴育华}\@.
+  \bibtitle{基于结构方程的知识型服务质量的评价方法}\bibmark{[J]}\@.
+  \bibjournal{电子科技大学学报（社会科学版）}\@,
+  \bibyear{2009}\@, \bibvolume{11}\bibnumber{(3)}\thinspace{}\textnormal{:
+  }\bibpages{32\thinspace{}\textnormal{--}\thinspace{}36}\@.
+
+\bibitem{乔红丽2017移动图书馆用户体验的结构方程模型分析}
+\bibauthor{乔红丽}\@.
+  \bibtitle{移动图书馆用户体验的结构方程模型分析}\bibmark{[J]}\@.
+  \bibjournal{情报科学}\@,
+  \bibyear{2017}\bibnumber{(2)}\thinspace{}\textnormal{:
+  }\bibpages{56\thinspace{}\textnormal{--}\thinspace{}62}\@.
+
+\bibitem{Li2017Research}
+\bibauthor{LI H\@, ZHAO A\@, ZHANG D, et~al}\@. \bibtitle{Research on building
+  software usage model based on UML model}\bibmark{[J]}\@.
+  \bibjournal{International Journal of System Assurance Engineering \&
+  Management}\@, \bibyear{2017}\@,
+  \bibvolume{9}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{1\thinspace{}\textnormal{--}\thinspace{}9}\@.
+
+\bibitem{mvc体系结构}
+\bibauthor{BAIDUBAIKE}\@. \bibtitle{mvc体系结构}\bibmark{[J/OL]}\@,
+  \bibyear{2019}\@.
+  \newline\url{https://www.cnblogs.com/xiaxiaoshu/p/9073209.html}\@.
+
+\bibitem{刘秋艳2017多要素评价中指标权重的确定方法评述}
+\bibauthor{刘秋艳\@, 吴新年}\@.
+  \bibtitle{多要素评价中指标权重的确定方法评述}\bibmark{[J]}\@.
+  \bibjournal{知识管理论坛}\@, \bibyear{2017}\@.
+
+\bibitem{刘畅2006我国火电企业投资决策影响因素评价方法及模型研究}
+\bibauthor{刘畅}\@.
+  \bibtitle{我国火电企业投资决策影响因素评价方法及模型研究}\bibmark{[J]}\@.
+  \bibjournal{重庆文理学院学报：自然科学版}\@, \bibyear{2006}\@,
+  \bibvolume{5}\bibnumber{(10)}\thinspace{}\textnormal{:
+  }\bibpages{22\thinspace{}\textnormal{--}\thinspace{}24}\@.
+
+\end{thebibliography}
